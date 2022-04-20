@@ -1,6 +1,6 @@
 # Lines count
 
-The project only serves one purpose of bragging to your friends about how much code you've copy-pasted from SO.
+The project only serves the purpose of bragging about how many lines of code you've copy-pasted from SO to your friends.
 
 ## Usage guidelines
 
