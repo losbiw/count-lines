@@ -8,7 +8,7 @@ The script was created keeping Next.JS in mind and Next.JS only, so if you're us
 
 ## Exclude folders, files and patterns
 
-Open [count-lines.js](https://github.com/losbiw/count-lines/count-lines.js#L4), proceed to the line number 4 where the "defaultExcluded" array is defined. The further instructions depend on your particular use case:
+Open [count-lines.js](https://github.com/losbiw/count-lines/blob/master/count-lines.js#L4), proceed to the line number 4 where the "defaultExcluded" array is defined. The further instructions depend on your particular use case:
 
 - If you are trying to exclude a specific path (e.g. a file or a directory), add it to the array as a string. For example, if one was to exclude the "node_modules" directory, they would do something like this:
 
