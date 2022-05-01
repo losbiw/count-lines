@@ -71,7 +71,7 @@ const main = () => {
 
   if (!dirPath) throw Error('Argument for "directory path" was not provided');
 
-  const files = getFiles(process.argv[1], defaultExcluded);
+  const files = getFiles(process.argv[2], defaultExcluded);
   const linesCount = getLinesCount(files);
 
   console.log(
